@@ -24,6 +24,7 @@ This is a python project on Covid 19 that represents the top 15 countries with t
 - [ ] Italy 	
 - [ ] Turkey
 
+![Covid map](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/covid-19-analysis-output.gif)
 
 ```
 The structure of the folder is 
